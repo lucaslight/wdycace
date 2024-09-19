@@ -1,12 +1,22 @@
 {
   "name": "wdycace",
+  "description": "Browser extension that allows users to generate random UPC and ISRC (codes).",
   "version": "1.0.0",
+  "author": "lucaslight",
+  "license": "MIT",
+  "keywords": [
+    "browser-extension",
+    "UPC",
+    "ISRC",
+    "code-generator",
+    "random-code-generator",
+    "music-industry",
+    "product-code",
+    "recording-code",
+    "JavaScript"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
