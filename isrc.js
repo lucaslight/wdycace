@@ -17,7 +17,7 @@ function randomString(length) {
 }
 
 function generateRandomISRC() {
-    return (randomCountry() + '-' + randomString(3) + '-' + randomNumeric(2) + '-' + randomNumeric(5)).toUpperCase();
+    return (randomCountry() + randomString(3) + randomNumeric(2) + randomNumeric(5)).toUpperCase();
 }
 
 document.getElementById('isrc').addEventListener('click', function() {

@@ -6,7 +6,9 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "icon16.png"
+      "16": "images/wdycace16.png",
+      "32": "images/wdycace32.png",
+      "128": "images/wdycace128.png"
     }
   },
   "permissions": [
