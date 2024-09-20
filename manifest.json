@@ -8,6 +8,7 @@
     "default_icon": {
       "16": "images/wdycace16.png",
       "32": "images/wdycace32.png",
+      "48": "images/wdycace48.png",
       "64": "images/wdycace64.png",
       "128": "images/wdycace128.png"
     }
